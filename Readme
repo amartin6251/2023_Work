@@ -1,1 +1,6 @@
+### ReadMe for 2023 work
 
+Neural Network and Deep Learning practice using Tensorflow 2.0 and Tensorboard.
+1. Upload the MNIST dataset and split 80/20 for training and testing.
+2. Trained the model to bring accuracy from 10% to 98%.
+3. Evaluated to ensure accuracy, and visualized the model in Tensorboard. 
